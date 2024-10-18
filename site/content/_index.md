@@ -1,10 +1,10 @@
 ---
 title: Krajka
-subtitle: "Harcerski Klub Sportowy "
+subtitle: Harcerski Krąg Seniorów
 image: img/krajka-harcerska.jpg
 blurb:
   heading: Witamy
-  text: W związku z reaktywacją naszego klubu i zbliżającymi się uroczystościami
+  text: W związku z reaktywacją naszego kręgu i zbliżającymi się uroczystościami
     jubileuszowymi, zapraszamy na naszą klubową stronę. W tej chwili trwają
     prace nad treścią, jednak już teraz zapraszamy do współtworzenia i
     nadsyłania swoich pomysłów.
