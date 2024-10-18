@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-logo: /img/logo.svg
+logo: img/krajka-harcerska.jpg
 contact_entries: []
 ---
 **hm. Marek Medyński**
