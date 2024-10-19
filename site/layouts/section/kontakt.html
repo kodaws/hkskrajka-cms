@@ -11,7 +11,8 @@
 	        	{{ range .Params.contact_entries }}
 				<div>
 					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
+					<p>{{ .title }}</p>
+					<p>{{ .phone }}</p>
 				</div>
 			{{ end }}
 		</div>
