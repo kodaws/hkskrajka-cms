@@ -12,4 +12,4 @@ contact_entries:
     title: Kwatermistrz Kręgu
     phone: tel. 502 859 495
 ---
-
+Na wszelkie pytanie dot. Kręgu odpowiedzą:

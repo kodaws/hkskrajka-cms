@@ -55,10 +55,10 @@ collections: # A list of collections the CMS should be able to edit
                 widget: string
               - label: Tytuł
                 name: title
-                widget: text
-              - label: Tytuł
+                widget: string
+              - label: phone
                 name: phone
-                widget: text
+                widget: string
       - file: "site/content/products/_index.md"
         label: "Products Page"
         name: "products"
