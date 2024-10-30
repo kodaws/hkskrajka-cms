@@ -7,7 +7,7 @@ public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
+    label: "Wpisy" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
     path: "{{slug}}/index" # Each document is inside a folder with the slug name.
     create: true # Allow users to create new documents in this collection
@@ -15,13 +15,13 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: " ", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
-    label: "Pages"
+    label: "Strony"
     files:
       - file: "site/content/_index.md"
-        label: "Home Page"
+        label: "Strona główna"
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
@@ -74,8 +74,8 @@ collections: # A list of collections the CMS should be able to edit
         label: "Nasz bohater"
         name: "our-patron"
         fields:
-          - {label: Tytuł, name: title, widget: string}
-          - {label: Zdjęcie, name: image, widget: image}
+          - {label: Tytuł, name: heading, widget: string}
+          - {label: Zdjęcie, name: imageUrl, widget: image}
           - {label: Opis, name: description, widget: markdown}
   - name: "site_settings"
     label: "Site Settings"
