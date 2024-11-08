@@ -1,13 +1,15 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: Jak utworzyć nowy wpis w sekcji "Z życia kręgu"?
 date: 2017-01-04T15:04:10.000Z
-description: Jak utworzyć nowy wpis w sekcji "Z życia kręgu"?
+description: Artykuł prezentuje w jaki tworzyć nowe strony w sekcji Z życia kręgu. Sekcja ta wyświetla wpisy w kolejności chronologicznej oraz umożliwia prezentację skrótów (opisów) na innych podstronach.
 image: question-mark.jpg
 author: Wojciech Sroczyński
 ---
 
-Ten artykuł prezentuje w jaki tworzyć nowe strony w sekcji [Z życia kręgu](/posts). Sekcja ta wyświetla wpisy w kolejności chronologicznej oraz umożliwia prezentację skrótów (opisów) na innych podstronach.
+## Wstep
 
+System używa komponentów CMS, które pozwalają na edycję strony w sposób podobny do wordpressa, ale bez użycia bazy danych. Pozwala to na zmniejszenie kosztów hostingu, przy zachowaniu podstawowej edycji.
+Artykuł opisuje działają wpisy w sekcji [Z życia kręgu](/post)
 
 ## Jakie dane są zapisywane:
 
